@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Harish Prabhakaran"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "We try to do some things over here."
-  location         : "Somewhere"
+  bio              : "We try to do some things over here. I'm currently a student at the University of California, Santa Cruz and Digital Design and Networks Programming are my interests!"
+  location         : "Santa Cruz, CA"
   email            :
   links:
     - label: "Email"
